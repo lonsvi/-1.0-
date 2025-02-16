@@ -2786,6 +2786,7 @@ new SceneData
 
 
 
+
     public class SceneData
     {
         /*  Путь к фону
